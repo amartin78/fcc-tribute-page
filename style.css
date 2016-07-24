@@ -1,0 +1,55 @@
+.title {
+/*   font-family: "Great Vives", cursive; */
+  font-family: "Waltograph", regular;
+  font-size: 6rem;
+}
+
+h3 {
+    font-family: "Great Vives", cursive;
+}
+
+img {
+  border-radius: 4px;
+}
+
+.footer p {
+  margin: 40px 0 25px 0;
+  font-size: 150%;
+}
+
+p {
+  font-size: 1.4rem;
+  text-align: justify;
+}
+
+.space {
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#header {
+  padding: 10px 0;
+  margin: 20px 0;
+}
+
+#works {
+  padding-bottom: 4px;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+}
+
+.page-header {
+  margin-bottom: 40px;
+}
+
+.well p {
+  margin: 5Px 0px -5px 0px;
+}
+
+
